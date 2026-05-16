@@ -2,6 +2,8 @@
 
 This is a simple Pong game written in Python using the Turtle library. The game features a minimalist design with sound effects and player vs. player mode. It was developed as a Python programming exercise.
 
+<img width="798" height="599" alt="Screenshot_157" src="https://github.com/user-attachments/assets/ab192533-b258-4062-b846-fccc29f6c0c6" />
+
 ## Features
 - Minimalist design
 - Player vs. Player mode
